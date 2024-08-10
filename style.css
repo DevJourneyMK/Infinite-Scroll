@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    background-color: GREY;
+}
+.container>img{
+    width: 30%;
+    margin: 10px;
+    border-radius: 15PX;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+h1{
+    opacity: 0.5;
+    
+}
